@@ -1,0 +1,12 @@
+{
+  "name": "KurocoTopicsJson2TSTypes",
+  "version": "0.1.0",
+  "description": "Convert a JSON file of Kuroco Topics to TypeScript Types.",
+  "main": "index.ts",
+  "repository": "https://github.com/TakerNezu/KurocoTopicsJson2TSTypes.git",
+  "author": "TakerNezu",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
